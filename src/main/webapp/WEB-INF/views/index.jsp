@@ -2,7 +2,8 @@
 <%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt"%>
 <html>
 <body>
-    <h2>나는야 퉁퉁이~ 골목 대장이라네~</h2>
+    <h2>we wish a merry christmas</h2>
+    <h2>fuck yeah~</h2>
     <hr>
 
     <h2>It's working on Tomcat server(9.0.65)</h2>
